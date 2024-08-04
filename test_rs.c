@@ -555,7 +555,7 @@ void benchmarkEncode(void) {
     double millis;
     double per_sec_in_bytes;
     double MB = 1024.0 * 1024.0;
-    double millis_to_sec = 1000*1000;
+    double millis_to_sec = 1000;
     int n;
     int size;
 
